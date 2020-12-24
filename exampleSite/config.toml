@@ -19,7 +19,7 @@ description = "sito di Roberto"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
-logo = "images/LogoMakr-0U02N6.png"
+logo = "images/a0k13-e0e2v.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
