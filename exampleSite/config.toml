@@ -5,10 +5,6 @@ paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "SitodiRoberto"
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 1
 [[menu.main]]
 URL = "tools"
 name = "tools"
