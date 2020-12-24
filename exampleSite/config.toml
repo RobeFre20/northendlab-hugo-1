@@ -12,10 +12,10 @@ weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "RobertoFretel"
 contact_form_action = "#"
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
-description = "This is meta description"
+copyright = "&copy; SitodiRoberto"
+description = "sito di Roberto"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
